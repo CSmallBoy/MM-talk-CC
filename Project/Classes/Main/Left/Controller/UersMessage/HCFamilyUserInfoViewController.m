@@ -40,7 +40,7 @@
     
     UILabel *title = [[UILabel alloc]init];
     title.frame = CGRectMake(0, 30, SCREEN_WIDTH, 30);
-    title.text = @"个人信息";
+    title.text = @"个人信息1";
     title.textAlignment = NSTextAlignmentCenter;
     title.textColor = [UIColor whiteColor];
     title.center = CGPointMake(SCREEN_WIDTH/2, title.center.y);
